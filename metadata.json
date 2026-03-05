@@ -1,0 +1,5 @@
+{
+  "name": "SalesAI - Supabase Powered Outreach",
+  "description": "AI-powered sales outreach platform with real Supabase authentication and PostgreSQL database persistence.",
+  "requestFramePermissions": []
+}
